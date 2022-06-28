@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "channelname": "Code with Harry",
+        "channleImg": "cameron.png",
+        "thumbnail": "thumbnail1.png",
+        "desc": "How To Make A Website Like YouTube Using HTML CSS JS | Video Sharing Website Design",
+        "views": "15k Views",
+        "videoUrl": ""
+    },
+    {
+        "id": 2,
+        "channelname": "Easy Tutorials",
+        "channleImg": "gerard.png",
+        "thumbnail": "thumbnail2.png",
+        "desc": "How To Make a Website in 5 Minutes",
+        "views": "15k Views",
+        "videoUrl": ""
+    },
+    {
+        "id": 3,
+        "channelname": "freeCodeCamp",
+        "channleImg": "jack.png",
+        "thumbnail": "thumbnail3.png",
+        "desc": "Use this Frontend Backend combination to become a successful Web Developer!",
+        "views": "15k Views",
+        "videoUrl": ""
+    },
+    {
+        "id": 4,
+        "channelname": "Telusko",
+        "channleImg": "megan.png",
+        "thumbnail": "thumbnail4.png",
+        "desc": "MERN Stack Blog Web App Tutorial - Full Course | A MERN Stack Guide for beginner",
+        "views": "15k Views",
+        "videoUrl": ""
+    },
+    {
+        "id": 5,
+        "channelname": "Easy Tutorials",
+        "channleImg": "simon.png",
+        "thumbnail": "thumbnail5.png",
+        "desc": "Love is Love | Stand-up comedy by Swati Sachdeva",
+        "views": "15k Views",
+        "videoUrl": ""
+    },
+    {
+        "id": 6,
+        "channelname": "Dev Ed",
+        "channleImg": "tom.png",
+        "thumbnail": "thumbnail6.png",
+        "desc": "[Javascript Full-stack] Projet MERN | Créer un réseau social | Partie Back-end",
+        "views": "15k Views",
+        "videoUrl": ""
+    },
+    {
+        "id": 7,
+        "channelname": "Pedro Tech",
+        "channleImg": "gerard.png",
+        "thumbnail": "thumbnail7.png",
+        "desc": "Best channel to learn coding that help you to be a web developer",
+        "views": "15k Views",
+        "videoUrl": ""
+    },
+    {
+        "id": 8,
+        "channelname": "Web Dev Simplified",
+        "channleImg": "jack.png",
+        "thumbnail": "thumbnail8.png",
+        "desc": "Best channel to learn coding that help you to be a web developer",
+        "views": "15k Views",
+        "videoUrl": ""
+    }
+]

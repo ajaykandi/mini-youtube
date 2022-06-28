@@ -1,0 +1,46 @@
+.sidebar{
+    padding: 20px;
+}
+.sidebar::-webkit-scrollbar {
+    display: none;
+}
+
+.sidebarListItem{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.sidebarItemImg{
+    width: 20px;
+    cursor: pointer;
+}
+.sidebarItemText{
+    margin-left: 15px;
+    color: #7E7E7E;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    padding-right: 30px;
+}
+.channelProfileImg{
+    width: 25px;
+    border-radius: 50%;
+    cursor: pointer;
+    
+
+}
+.sidebar h4{
+    font-weight: 700;
+    font-size: 12px;
+    margin: 20px 0;
+    cursor: pointer;
+}
+.sidebarHr{
+    width: 85%;
+    background-color: #ccc;
+}
+.sidebarToggle{
+    display: none;
+    transition: opacity 0.5s linear;
+    
+}

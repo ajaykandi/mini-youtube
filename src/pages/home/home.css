@@ -1,0 +1,9 @@
+.container{
+    display: flex;
+}
+.containerLeft{
+    /* flex: 1; */
+}
+.containerRight{
+    flex: 5;
+}

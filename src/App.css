@@ -1,38 +1,96 @@
-.App {
-  text-align: center;
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
+@media (max-width:768px) {
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+  .menuIcon{
+    display: none;
   }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+  .sidebar{
+    display: none;
   }
-  to {
-    transform: rotate(360deg);
+  .navLeft .logo{
+    width: 85px !important;
   }
+
+  .navCenter{
+    flex: 3 !important;
+    padding: 10px !important;
+  }
+  .navCenter .search{
+    height: auto !important;
+    width: 100% !important;
+  }
+  .navCenter .search input{
+    padding: 5px 0 !important;
+    margin: 0 10px !important;
+    font-size: 11px !important;
+
+  }
+  .searchIcon{
+    width: 10px !important;
+  }
+
+
+  .navCenter>img{
+    display: none;
+  }
+
+  .navRight img {
+    display: none;
+    margin-left: 0 !important;
+  }
+
+  
+  .profileIcon{
+    display: block !important;
+  }
+
+
+  /* -------------video page ------------ */
+  .videoCounts{
+    align-items: center;
+    padding:  0 3px;
+  }
+  .videoIcon{
+    flex-direction: column;
+  }
+  .videoIcon span{
+      font-size: 10px !important;
+  }
+  .videoDescription h4{
+      font-size: 14px !important;
+  }
+  .videoIcon img{
+    margin-bottom: 3px;
+  }
+  .channel{
+    padding: 10px 5px !important;
+  }
+    .channelInfo button{
+      padding: 0px !important;
+      font-size: 10px !important;
+    }
+  .channel img{
+    width: 35px !important;
+    height: 35px !important;
+    margin-right: 10px !important;
+  }
+  .channelDesc {
+   padding-left: 47px !important;
+  }
+    .channelDesc p {
+      font-size: 10px !important;
+    }
+    .channelDesc span{
+      font-size: 9px !important;
+    }
+  .channelInfo h4{
+    font-size: 14px;
+    letter-spacing: 0.1mm;
+  }
+
+  
 }
